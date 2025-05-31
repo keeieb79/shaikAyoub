@@ -1,267 +1,320 @@
 [
     {
         "number": 1,
-        "name": "Al-Fatihah",
+        "name-en": "Al-Fatihah",
+        "name-ar": "الفاتحة",
         "filename": "audios/1.Al-Fatihah.mp3"
     },
     {
       "number": 2,
-      "name": "An-Nas",
+      "name-en": "An-Nas",
+      "name-ar": "الناس",
       "filename": "audios/114.An-Nas.mp3"
     },
     {
       "number": 3,
-      "name": "Al-Falaq",
+      "name-en": "Al-Falaq",
+      "name-ar": "الفلق",
       "filename": "audios/113.Al-Falaq.mp3"
     },
     {
       "number": 4,
-      "name": "Al-Ikhlas",
+      "name-en": "Al-Ikhlas",
+      "name-ar": "الإخلاص",
       "filename": "audios/112.Al-Ikhlas.mp3"
     },
     {
       "number": 5,
-      "name": "Al-Masad",
+      "name-en": "Al-Masad",
+      "name-ar": "المسد",
       "filename": "audios/111.Al-Masad.mp3"
     },
     {
       "number": 6,
-      "name": "An-Nasr",
+      "name-en": "An-Nasr",
+      "name-ar": "النصر",
       "filename": "audios/110.An-Nasr.mp3"
     },
     {
       "number": 7,
-      "name": "Al-Kafirun",
+      "name-en": "Al-Kafirun",
+      "name-ar": "الكافرون",
       "filename": "audios/109.Al-Kafirun.mp3"
     },
     {
       "number": 8,
-      "name": "Al-Kawthar",
+      "name-en": "Al-Kawthar",
+      "name-ar": "الكوثر",
       "filename": "audios/108.Al-Kawthar.mp3"
     },
     {
       "number": 9,
-      "name": "Al-Ma'un",
+      "name-en": "Al-Ma'un",
+      "name-ar": "الماعون",
       "filename": "audios/107.Al-Ma'un.mp3"
     },
     {
       "number": 10,
-      "name": "Quraysh",
+      "name-en": "Quraysh",
+      "name-ar": "قريش",
       "filename": "audios/106.Quraysh.mp3"
     },
     {
       "number": 11,
-      "name": "Al-Fil",
+      "name-en": "Al-Fil",
+      "name-ar": "الفيل",
       "filename": "audios/105.Al-Fil.mp3"
     },
     {
       "number": 12,
-      "name": "Al-Humazah",
+      "name-en": "Al-Humazah",
+      "name-ar": "الهمزة",
       "filename": "audios/104.Al-Humazah.mp3"
     },
     {
       "number": 13,
-      "name": "Al-'Asr",
+      "name-en": "Al-'Asr",
+      "name-ar": "العصر",
       "filename": "audios/103.Al-'Asr.mp3"
     },
     {
       "number": 14,
-      "name": "At-Takathur",
+      "name-en": "At-Takathur",
+      "name-ar": "التكاثر",
       "filename": "audios/102.At-Takathur.mp3"
     },
     {
       "number": 15,
-      "name": "Al-Qari'ah",
+      "name-en": "Al-Qari'ah",
+      "name-ar": "القارعة",
       "filename": "audios/101.Al-Qari'ah.mp3"
     },
     {
       "number": 16,
-      "name": "Al-'Adiyat",
+      "name-en": "Al-'Adiyat",
+      "name-ar": "العاديات",
       "filename": "audios/100.Al-'Adiyat.mp3"
     },
     {
       "number": 17,
-      "name": "Az-Zalzalah",
+      "name-en": "Az-Zalzalah",
+      "name-ar": "الزلزلة",
       "filename": "audios/99.Az-Zalzalah.mp3"
     },
     {
       "number": 18,
-      "name": "Al-Bayyinah",
+      "name-en": "Al-Bayyinah",
+      "name-ar": "البينة",
       "filename": "audios/98.Al-Bayyinah.mp3"
     },
     {
       "number": 19,
-      "name": "Al-Qadr",
+      "name-en": "Al-Qadr",
+      "name-ar": "القدر",
       "filename": "audios/97.Al-Qadr.mp3"
     },
     {
       "number": 20,
-      "name": "Al-'Alaq",
+      "name-en": "Al-'Alaq",
+      "name-ar": "العلق",
       "filename": "audios/96.Al-'Alaq.mp3"
     },
     {
       "number": 21,
-      "name": "Al-Tin",
+      "name-en": "Al-Tin",
+      "name-ar": "التين",
       "filename": "audios/95.Al-Tin.mp3"
     },
     {
       "number": 22,
-      "name": "Ash-Sharh",
+      "name-en": "Ash-Sharh",
+      "name-ar": "الشرح",
       "filename": "audios/94.Ash-Sharh.mp3"
     },
     {
       "number": 23,
-      "name": "Ad-Duhaa",
+      "name-en": "Ad-Duhaa",
+      "name-ar": "الضحى",
       "filename": "audios/93.Ad-Duhaa.mp3"
     },
     {
       "number": 24,
-      "name": "Al-Layl",
+      "name-en": "Al-Layl",
+      "name-ar": "الليل",
       "filename": "audios/92.Al-Layl.mp3"
     },
     {
       "number": 25,
-      "name": "Ash-Shams",
+      "name-en": "Ash-Shams",
+      "name-ar": "الشمس",
       "filename": "audios/91.Ash-Shams.mp3"
     },
     {
       "number": 26,
-      "name": "Al-Balad",
+      "name-en": "Al-Balad",
+      "name-ar": "البلد",
       "filename": "audios/90.Al-Balad.mp3"
     },
     {
       "number": 27,
-      "name": "Al-Fajr",
+      "name-en": "Al-Fajr",
+      "name-ar": "الفجر",
       "filename": "audios/89.Al-Fajr.mp3"
     },
     {
       "number": 28,
-      "name": "Al-Ghashiyah",
+      "name-en": "Al-Ghashiyah",
+      "name-ar": "الغاشية",
       "filename": "audios/88.Al-Ghashiyah.mp3"
     },
     {
       "number": 29,
-      "name": "Al-A'la",
+      "name-en": "Al-A'la",
+      "name-ar": "الأعلى",
       "filename": "audios/87.Al-A'la.mp3"
     },
     {
       "number": 30,
-      "name": "At-Tariq",
+      "name-en": "At-Tariq",
+      "name-ar": "الطارق",
       "filename": "audios/86.At-Tariq.mp3"
     },
     {
       "number": 31,
-      "name": "Al-Buruj",
+      "name-en": "Al-Buruj",
+      "name-ar": "البروج",
       "filename": "audios/85.Al-Buruj.mp3"
     },
     {
       "number": 32,
-      "name": "Al-Inshiqaq",
+      "name-en": "Al-Inshiqaq",
+      "name-ar": "الإنشقاق",
       "filename": "audios/84.Al-Inshiqaq.mp3"
     },
     {
       "number": 33,
-      "name": "Al-Mutaffifin",
+      "name-en": "Al-Mutaffifin",
+      "name-ar": "المطففين",
       "filename": "audios/83.Al-Mutaffifin.mp3"
     },
     {
       "number": 34,
-      "name": "Al-Infitar",
+      "name-en": "Al-Infitar",
+      "name-ar": "الإنفطار",
       "filename": "audios/82.Al-Infitar.mp3"
     },
     {
       "number": 35,
-      "name": "At-Takwir",
+      "name-en": "At-Takwir",
+      "name-ar": "التكوير",
       "filename": "audios/81.At-Takwir.mp3"
     },
     {
       "number": 36,
-      "name": "'Abasa",
+      "name-en": "'Abasa",
+      "name-ar": "عبس",
       "filename": "audios/80.'Abasa.mp3"
     },
     {
       "number": 37,
-      "name": "An-Nazi'at",
+      "name-en": "An-Nazi'at",
+      "name-ar": "النازعات",
       "filename": "audios/79.An-Nazi'at.mp3"
     },
     {
       "number": 38,
-      "name": "An-Naba",
+      "name-en": "An-Naba",
+      "name-ar": "النبأ",
       "filename": "audios/78.An-Naba.mp3"
     },
     {
       "number": 39,
-      "name": "Al-Mursalat",
+      "name-en": "Al-Mursalat",
+      "name-ar": "المرسلات",
       "filename": "audios/77.Al-Mursalat.mp3"
     },
     {
       "number": 40,
-      "name": "Al-Insan",
+      "name-en": "Al-Insan",
+      "name-ar": "الإنسان",
       "filename": "audios/76.Al-Insan.mpm3"
     },
     {
       "number": 41,
-      "name": "Al-Qiyamah",
+      "name-en": "Al-Qiyamah",
+      "name-ar": "القيامة",
       "filename": "audios/75.Al-Qiyamah.mp3"
     },
     {
       "number": 42,
-      "name": "Al-Muddaththir",
+      "name-en": "Al-Muddaththir",
+      "name-ar": "المدثر",
       "filename": "audios/74.Al-Muddaththir.mp3"
     },
     {
       "number": 43,
-      "name": "Al-Muzzammil",
+      "name-en": "Al-Muzzammil",
+      "name-ar": "المزمل",
       "filename": "audios/73.Al-Muzzammil.mp3"
     },
     {
       "number": 44,
-      "name": "Al-Jinn",
+      "name-en": "Al-Jinn",
+      "name-ar": "الجن",
       "filename": "audios/72.Al-Jinn.mp3"
     },
     {
       "number": 45,
-      "name": "Nuh",
+      "name-en": "Nuh",
+      "name-ar": "نوح",
       "filename": "audios/71.Nuh.mp3"
     },
     {
       "number": 46,
-      "name": "Al-Ma'arij",
+      "name-en": "Al-Ma'arij",
+      "name-ar": "المعارج",
       "filename": "audios/70.Al-Ma'arij.mp3"
     },
     {
       "number": 47,
-      "name": "Al-Haqqah",
+      "name-en": "Al-Haqqah",
+      "name-ar": "الحاقة",
       "filename": "audios/69.Al-Haqqah.mp3"
     },
     {
       "number": 48,
-      "name": "Al-Qalam",
+      "name-en": "Al-Qalam",
+      "name-ar": "القلم",
       "filename": "audios/68.Al-Qalam.mp3"
     },
     {
       "number": 49,
-      "name": "Al-Mulk",
+      "name-en": "Al-Mulk",
+      "name-ar": "الملك",
       "filename": "audios/67.Al-Mulk.mp3"
     },
     {
       "number": 50,
-      "name": "At-Tahrim",
+      "name-en": "At-Tahrim",
+      "name-ar": "التحريم",
       "filename": "audios/66.At-Tahrim.mp3"
     },
     {
       "number": 51,
-      "name": "At-Talaq",
+      "name-en": "At-Talaq",
+      "name-ar": "الطلاق",
       "filename": "audios/65.At-Talaq.mp3"
     },
     {
       "number": 52,
-      "name": "At-Taghabun",
+      "name-en": "At-Taghabun",
+      "name-ar": "التغابن",
       "filename": "audios/64.At-Taghabun.mp3"
     },
     {
       "number": 53,
-      "name": "Al-Munafiqun",
+      "name-en": "Al-Munafiqun",
+      "name-ar": "المنافقون",
       "filename": "audios/63.Al-Munafiqun.mp3"
     }
 ]
