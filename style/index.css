@@ -13,21 +13,33 @@
     
 }
 
-.topNavBar li{
-    /* text-align: center; */
+.topNavBar ul{
+    text-align: center;
 }
 
 .topNavBar li{
     list-style-type: none;
 
     padding: 5px;
+    display: inline;
 }
 /* image */
 .topNavBar li img{
     padding: 5px;
-
     float: right;
 }
+/* text with image */
+.topNavBar .textWithImg{
+    float: right;
+}
+
+
+.topNavBar .shaykAyoub span{
+    margin: 0px;
+
+}
+
+/* declaring fonts */
 .amiri-regular {
     font-family: "Amiri", serif;
     font-weight: 500;
@@ -36,10 +48,6 @@
 
     margin-right: 8px;
     color: white;
-}
-
-.shaykAyoub{
-    text-align: center;
 }
 .noto-sans-arabic{
     font-family: "Noto Sans Arabic", sans-serif;
