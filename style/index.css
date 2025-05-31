@@ -153,6 +153,28 @@ button:hover{
     width: 60%;
     height: 90%;
 
+    font-family: "Noto Sans Arabic", sans-serif;
+
     border: 1px solid black;
     border-radius: 10px;
+}
+
+.innerSurah{
+    width: 95%;
+    height: 95%;
+
+    padding: 20px;
+}
+
+/* inner text */
+
+.surahTitle{
+    font-size: x-large;
+    font-weight: 550;
+}
+.surahDesc{
+    text-decoration: underline;
+}
+.surahAudio{
+    width: 60%;
 }
