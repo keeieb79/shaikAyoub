@@ -90,35 +90,31 @@
 
     margin-top: 50px;
 
-    overflow: hidden;
-    
     margin-left: auto;
     margin-right: auto;
 
     padding: 10px 20px;
 
-    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px; */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 
-    border: 1px solid black;
+    border: 1px solid white;
     border-radius: 10px;
 }
 
-.surah{
-    float: right;
-
-    width: 60%;
-    height: 500px;
-
-    border: 1px solid black;
-    border-radius: 10px;
-}
-
+/* starting aside */
 .mainWork aside{
     float: left;
 
-    padding: 8px;
+    height: 95%;
 
-    border: 1px solid black;
+    width: 13%;
+
+    padding: 8px;
+    margin: 10px 5px;
+
+    overflow: scroll;
+    
+    border: none;
     border-radius: 10px;
     
     box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
@@ -126,8 +122,37 @@
 .mainWork aside ul li{
     list-style: none;
 
-    overflow: scroll;
-
     border: 1px black;
+}
 
+/* customize the button */
+button{
+    background-color: white;
+
+    font-size: medium;
+
+    color: black;
+    padding: 5px;
+
+    border: none;
+    border-radius: 6px;
+
+}
+button:hover{
+    background-color: rgb(66, 66, 223);
+    color: white;
+
+    -webkit-transition: 0.2s;
+}
+/* finishing aside */
+
+/* start main section */
+.surah{
+    float: right;
+
+    width: 60%;
+    height: 90%;
+
+    border: 1px solid black;
+    border-radius: 10px;
 }

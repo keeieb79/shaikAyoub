@@ -9,12 +9,17 @@ async function getSurah(){
     let res = await data.json();
     for (let i = 0; i <= res.length; i++) {
         list.innerHTML = list.innerHTML + `
-            <li><a href=''>${res[i].name_ar} ${res[i].name_en}</a></li>
+            <li> <button type="button" onclick="getDetail('${res[i].number - 1}')">${res[i].name_ar} ${res[i].name_en}</button></li>
         `;
-        
+        // <a href=''>${res[i].name_ar} ${res[i].name_en}</a>
     }
 
 }
+
+async function getDetail(number) {
+    
+}
+
 
 /*
 0
