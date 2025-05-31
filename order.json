@@ -3,371 +3,371 @@
     "number": 1,
     "name_en": "Al-Fatihah",
     "name_ar": "الفاتحة",
-    "filename": "audios/1.Al-Fatihah.mp3",
+    "filename": "audio/1.Al-Fatihah.mp3",
     "desc": "سورة مكية، عدد آياتها 7. هي فاتحة الكتاب وأم القرآن، تُقرأ في كل ركعة من الصلاة."
   },
   {
     "number": 2,
     "name_en": "An-Nas",
     "name_ar": "الناس",
-    "filename": "audios/114.An-Nas.mp3",
+    "filename": "audio/114.An-Nas.mp3",
     "desc": "سورة مكية، عدد آياتها 6. هي آخر سور القرآن الكريم، وتتحدث عن الاستعاذة بالله من شر وسوسة الشيطان."
   },
   {
     "number": 3,
     "name_en": "Al-Falaq",
     "name_ar": "الفلق",
-    "filename": "audios/113.Al-Falaq.mp3",
+    "filename": "audio/113.Al-Falaq.mp3",
     "desc": "سورة مكية، عدد آياتها 5. تتحدث عن الاستعاذة بالله من شر ما خلق ومن شر غاسق إذا وقب ومن شر النفاثات في العقد ومن شر حاسد إذا حسد."
   },
   {
     "number": 4,
     "name_en": "Al-Ikhlas",
     "name_ar": "الإخلاص",
-    "filename": "audios/112.Al-Ikhlas.mp3",
+    "filename": "audio/112.Al-Ikhlas.mp3",
     "desc": "سورة مكية، عدد آياتها 4. تتحدث عن توحيد الله وفرادنيته وأنه لم يلد ولم يولد ولم يكن له كفوًا أحد."
   },
   {
     "number": 5,
     "name_en": "Al-Masad",
     "name_ar": "المسد",
-    "filename": "audios/111.Al-Masad.mp3",
+    "filename": "audio/111.Al-Masad.mp3",
     "desc": "سورة مكية، عدد آياتها 5. نزلت في ذم أبي لهب وامرأته، وتهديدهما بعذاب جهنم."
   },
   {
     "number": 6,
     "name_en": "An-Nasr",
     "name_ar": "النصر",
-    "filename": "audios/110.An-Nasr.mp3",
+    "filename": "audio/110.An-Nasr.mp3",
     "desc": "سورة مدنية، عدد آياتها 3. تبشر بالنصر والفتح ودخول الناس في دين الله أفواجًا، وتدعو إلى التسبيح والاستغفار."
   },
   {
     "number": 7,
     "name_en": "Al-Kafirun",
     "name_ar": "الكافرون",
-    "filename": "audios/109.Al-Kafirun.mp3",
+    "filename": "audio/109.Al-Kafirun.mp3",
     "desc": "سورة مكية، عدد آياتها 6. تتضمن إعلان البراءة من عبادة الأصنام والشرك."
   },
   {
     "number": 8,
     "name_en": "Al-Kawthar",
     "name_ar": "الكوثر",
-    "filename": "audios/108.Al-Kawthar.mp3",
+    "filename": "audio/108.Al-Kawthar.mp3",
     "desc": "سورة مكية، عدد آياتها 3. هي أقصر سورة في القرآن، تبشر النبي ﷺ بالخير العظيم في الدنيا والآخرة."
   },
   {
     "number": 9,
     "name_en": "Al-Ma'un",
     "name_ar": "الماعون",
-    "filename": "audios/107.Al-Ma'un.mp3",
+    "filename": "audio/107.Al-Ma'un.mp3",
     "desc": "سورة مكية، عدد آياتها 7. تتحدث عن صفات الذين يكذبون بالدين ويبخلون بالمعروف."
   },
   {
     "number": 10,
     "name_en": "Quraysh",
     "name_ar": "قريش",
-    "filename": "audios/106.Quraysh.mp3",
+    "filename": "audio/106.Quraysh.mp3",
     "desc": "سورة مكية، عدد آياتها 4. تذكّر قريشًا بنعم الله عليهم، وخاصة نعمة الأمن والرزق."
   },
   {
     "number": 11,
     "name_en": "Al-Fil",
     "name_ar": "الفيل",
-    "filename": "audios/105.Al-Fil.mp3",
+    "filename": "audio/105.Al-Fil.mp3",
     "desc": "سورة مكية، عدد آياتها 5. تتحدث عن قصة أصحاب الفيل الذين حاولوا هدم الكعبة."
   },
   {
     "number": 12,
     "name_en": "Al-Humazah",
     "name_ar": "الهمزة",
-    "filename": "audios/104.Al-Humazah.mp3",
+    "filename": "audio/104.Al-Humazah.mp3",
     "desc": "سورة مكية، عدد آياتها 9. تتوعّد كل همّاز لمّاز يجمع المال ويظن أنه مخلده بالعذاب في نار الحطمة."
   },
   {
     "number": 13,
     "name_en": "Al-'Asr",
     "name_ar": "العصر",
-    "filename": "audios/103.Al-'Asr.mp3" ,
+    "filename": "audio/103.Al-'Asr.mp3" ,
     "desc": "سورة مكية، عدد آياتها 3. تقسم بالزمان أن الإنسان في خسران إلا الذين آمنوا وعملوا الصالحات وتواصوا بالحق وتواصوا بالصبر."
   },
   {
     "number": 14,
     "name_en": "At-Takathur",
     "name_ar": "التكاثر",
-    "filename": "audios/102.At-Takathur.mp3",
+    "filename": "audio/102.At-Takathur.mp3",
     "desc": "سورة مكية، عدد آياتها 8. تتحدث عن لهو الناس وتفاخرهم بالدنيا حتى يزوروا القبور، وتوعدهم بسؤال عن النعيم يوم القيامة."
   },
   {
     "number": 15,
     "name_en": "Al-Qari'ah",
     "name_ar": "القارعة",
-    "filename": "audios/101.Al-Qari'ah.mp3",
+    "filename": "audio/101.Al-Qari'ah.mp3",
     "desc": "سورة مكية، عدد آياتها 11. تتحدث عن أهوال يوم القيامة وما يقع فيه من شدائد."
   },
   {
     "number": 16,
     "name_en": "Al-'Adiyat",
     "name_ar": "العاديات",
-    "filename": "audios/100.Al-'Adiyat.mp3",
+    "filename": "audio/100.Al-'Adiyat.mp3",
     "desc": "سورة مكية، عدد آياتها 11. تقسم بالخيل الضامرة في الجهاد، وتتحدث عن جحود الإنسان لنعم ربه."
   },
   {
     "number": 17,
     "name_en": "Az-Zalzalah",
     "name_ar": "الزلزلة",
-    "filename": "audios/99.Az-Zalzalah.mp3",
+    "filename": "audio/99.Az-Zalzalah.mp3",
     "desc": "سورة مدنية، عدد آياتها 8. تصف يوم القيامة وزلزلة الأرض وقيامها بإخراج أثقالها."
   },
   {
     "number": 18,
     "name_en": "Al-Bayyinah",
     "name_ar": "البينة",
-    "filename": "audios/98.Al-Bayyinah.mp3",
+    "filename": "audio/98.Al-Bayyinah.mp3",
     "desc": "سورة مدنية، عدد آياتها 8. تتحدث عن وضوح الحق بعد مجيء الرسول ﷺ والقرآن الكريم."
   },
   {
     "number": 19,
     "name_en": "Al-Qadr",
     "name_ar": "القدر",
-    "filename": "audios/97.Al-Qadr.mp3",
+    "filename": "audio/97.Al-Qadr.mp3",
     "desc": "سورة مكية، عدد آياتها 5. تتحدث عن ليلة القدر وفضلها العظيم وأنها خير من ألف شهر."
   },
   {
     "number": 20,
     "name_en": "Al-'Alaq",
     "name_ar": "العلق",
-    "filename": "audios/96.Al-'Alaq.mp3",
+    "filename": "audio/96.Al-'Alaq.mp3",
     "desc": "سورة مكية، عدد آياتها 19. أول خمس آيات منها هي أول ما نزل من القرآن على النبي ﷺ."
   },
   {
     "number": 21,
     "name_en": "Al-Tin",
     "name_ar": "التين",
-    "filename": "audios/95.Al-Tin.mp3",
+    "filename": "audio/95.Al-Tin.mp3",
     "desc": "سورة مكية، عدد آياتها 8. تقسم ببعض الأماكن المقدسة لتأكيد أن الله خلق الإنسان في أحسن تقويم."
   },
   {
     "number": 22,
     "name_en": "Ash-Sharh",
     "name_ar": "الشرح",
-    "filename": "audios/94.Ash-Sharh.mp3",
+    "filename": "audio/94.Ash-Sharh.mp3",
     "desc": "سورة مكية، عدد آياتها 8. تتضمن تسلية للنبي ﷺ وتذكيره بنعم الله عليه، وأن مع العسر يسرًا."
   },
   {
     "number": 23,
     "name_en": "Ad-Duhaa",
     "name_ar": "الضحى",
-    "filename": "audios/93.Ad-Duhaa.mp3",
+    "filename": "audio/93.Ad-Duhaa.mp3",
     "desc": "سورة مكية، عدد آياتها 11. تسلية للنبي ﷺ بعد انقطاع الوحي، وتذكيره بنعم الله عليه."
   },
   {
     "number": 24,
     "name_en": "Al-Layl",
     "name_ar": "الليل",
-    "filename": "audios/92.Al-Layl.mp3",
+    "filename": "audio/92.Al-Layl.mp3",
     "desc": "سورة مكية، عدد آياتها 21. تتحدث عن اختلاف سعي الناس بين من يبذل ويعطي ومن يبخل ويستغني."
   },
   {
     "number": 25,
     "name_en": "Ash-Shams",
     "name_ar": "الشمس",
-    "filename": "audios/91.Ash-Shams.mp3",
+    "filename": "audio/91.Ash-Shams.mp3",
     "desc": "سورة مكية، عدد آياتها 15. تقسم بآيات كونية عظيمة، وتتحدث عن فلاح من زكى نفسه وخيبة من دساها."
   },
   {
     "number": 26,
     "name_en": "Al-Balad",
     "name_ar": "البلد",
-    "filename": "audios/90.Al-Balad.mp3",
+    "filename": "audio/90.Al-Balad.mp3",
     "desc": "سورة مكية، عدد آياتها 20. تتحدث عن كبد الإنسان في الحياة الدنيا، وعقبات طريق الخير والنجاة."
   },
   {
     "number": 27,
     "name_en": "Al-Fajr",
     "name_ar": "الفجر",
-    "filename": "audios/89.Al-Fajr.mp3",
+    "filename": "audio/89.Al-Fajr.mp3",
     "desc": "سورة مكية، عدد آياتها 30. تقسم بأوقات مباركة، وتتحدث عن هلاك الأمم السابقة بسبب طغيانها، وتهديد من يطغى بعذاب شديد."
   },
   {
     "number": 28,
     "name_en": "Al-Ghashiyah",
     "name_ar": "الغاشية",
-    "filename": "audios/88.Al-Ghashiyah.mp3",
+    "filename": "audio/88.Al-Ghashiyah.mp3",
     "desc": "سورة مكية، عدد آياتها 26. تتحدث عن يوم القيامة وما فيه من أهوال، وعن جزاء المؤمنين والكافرين."
   },
   {
     "number": 29,
     "name_en": "Al-A'la",
     "name_ar": "الأعلى",
-    "filename": "audios/87.Al-A'la.mp3",
+    "filename": "audio/87.Al-A'la.mp3",
     "desc": "سورة مكية، عدد آياتها 19. تأمر بتنزيه الله تعالى وبتذكر خلق السموات والأرض، وتتحدث عن فلاح من تزكى."
   },
   {
     "number": 30,
     "name_en": "At-Tariq",
     "name_ar": "الطارق",
-    "filename": "audios/86.At-Tariq.mp3",
+    "filename": "audio/86.At-Tariq.mp3",
     "desc": "سورة مكية، عدد آياتها 17. تقسم بالنجم الطارق، وتؤكد على أن على كل نفس حافظًا، وتتحدث عن البعث والحساب."
   },
   {
     "number": 31,
     "name_en": "Al-Buruj",
     "name_ar": "البروج",
-    "filename": "audios/85.Al-Buruj.mp3",
+    "filename": "audio/85.Al-Buruj.mp3",
     "desc": "سورة مكية، عدد آياتها 22. تتحدث عن قصة أصحاب الأخدود الذين عذبوا المؤمنين، وعن وعيد الله للكافرين."
   },
   {
     "number": 32,
     "name_en": "Al-Inshiqaq",
     "name_ar": "الإنشقاق",
-    "filename": "audios/84.Al-Inshiqaq.mp3",
+    "filename": "audio/84.Al-Inshiqaq.mp3",
     "desc": "سورة مكية، عدد آياتها 25. تصف انشقاق السماء وأهوال يوم القيامة، وحساب الإنسان على عمله."
   },
   {
     "number": 33,
     "name_en": "Al-Mutaffifin",
     "name_ar": "المطففين",
-    "filename": "audios/83.Al-Mutaffifin.mp3",
+    "filename": "audio/83.Al-Mutaffifin.mp3",
     "desc": "سورة مكية، عدد آياتها 36. تتوعد الذين يبخسون المكيال والميزان، وتتحدث عن جزاء الفجار والأبرار."
   },
   {
     "number": 34,
     "name_en": "Al-Infitar",
     "name_ar": "الإنفطار",
-    "filename": "audios/82.Al-Infitar.mp3",
+    "filename": "audio/82.Al-Infitar.mp3",
     "desc": "سورة مكية، عدد آياتها 19. تصف اهوال يوم القيامة وانشقاق السماء وانتثار الكواكب."
   },
   {
     "number": 35,
     "name_en": "At-Takwir",
     "name_ar": "التكوير",
-    "filename": "audios/81.At-Takwir.mp3",
+    "filename": "audio/81.At-Takwir.mp3",
     "desc": "سورة مكية، عدد آياتها 29. تصف العلامات الكبرى ليوم القيامة من تكوير الشمس وتناثر النجوم."
   },
   {
     "number": 36,
     "name_en": "'Abasa",
     "name_ar": "عبس",
-    "filename": "audios/80.'Abasa.mp3",
+    "filename": "audio/80.'Abasa.mp3",
     "desc": "سورة مكية، عدد آياتها 42. عتاب للنبي ﷺ بسبب إعراضه عن الأعمى ابن أم مكتوم وانشغاله بالزعماء القرشيين."
   },
   {
     "number": 37,
     "name_en": "An-Nazi'at",
     "name_ar": "النازعات",
-    "filename": "audios/79.An-Nazi'at.mp3",
+    "filename": "audio/79.An-Nazi'at.mp3",
     "desc": "سورة مكية، عدد آياتها 46. تقسم بالملائكة وتصف أهوال يوم القيامة."
   },
   {
     "number": 38,
     "name_en": "An-Naba",
     "name_ar": "النبأ",
-    "filename": "audios/78.An-Naba.mp3",
+    "filename": "audio/78.An-Naba.mp3",
     "desc": "سورة مكية، عدد آياتها 40. تتحدث عن عظمة يوم القيامة وأهواله، وتتضمن دلائل قدرة الله في الكون."
   },
   {
     "number": 39,
     "name_en": "Al-Mursalat",
     "name_ar": "المرسلات",
-    "filename": "audios/77.Al-Mursalat.mp3",
+    "filename": "audio/77.Al-Mursalat.mp3",
     "desc": "سورة مكية، عدد آياتها 50. تقسم بالرياح المرسلة، وتتحدث عن أهوال يوم القيامة وما فيه من جزاء للمتقين والمكذبين."
   },
   {
     "number": 40,
     "name_en": "Al-Insan",
     "name_ar": "الإنسان",
-    "filename": "audios/76.Al-Insan.mpm3",
+    "filename": "audio/76.Al-Insan.mpm3",
     "desc": "سورة مدنية، عدد آياتها 31. تتحدث عن خلق الإنسان وتكريمه، وعن جزاء الأبرار في الجنة."
   },
   {
     "number": 41,
     "name_en": "Al-Qiyamah",
     "name_ar": "القيامة",
-    "filename": "audios/75.Al-Qiyamah.mp3",
+    "filename": "audio/75.Al-Qiyamah.mp3",
     "desc": "سورة مكية، عدد آياتها 40. تقسم بيوم القيامة وبالنفس اللوامة، وتتحدث عن أهوال يوم القيامة وجمع القرآن."
   },
   {
     "number": 42,
     "name_en": "Al-Muddaththir",
     "name_ar": "المدثر",
-    "filename": "audios/74.Al-Muddaththir.mp3",
+    "filename": "audio/74.Al-Muddaththir.mp3",
     "desc": "سورة مكية، عدد آياتها 56. نزلت في بداية الدعوة، تأمر النبي بالقيام للإنذار وتطهير الثياب وهجر الأوثان."
   },
   {
     "number": 43,
     "name_en": "Al-Muzzammil",
     "name_ar": "المزمل",
-    "filename": "audios/73.Al-Muzzammil.mp3",
+    "filename": "audio/73.Al-Muzzammil.mp3",
     "desc": "سورة مكية، عدد آياتها 20. تأمر النبي بقيام الليل والتلاوة بالترتيل، وتتحدث عن التخفيف في قيام الليل لاحقًا."
   },
   {
     "number": 44,
     "name_en": "Al-Jinn",
     "name_ar": "الجن",
-    "filename": "audios/72.Al-Jinn.mp3",
+    "filename": "audio/72.Al-Jinn.mp3",
     "desc": "سورة مكية، عدد آياتها 28. تحكي قصة استماع الجن للقرآن وإيمانهم به، وتتحدث عن علم الغيب."
   },
   {
     "number": 45,
     "name_en": "Nuh",
     "name_ar": "نوح",
-    "filename": "audios/71.Nuh.mp3",
+    "filename": "audio/71.Nuh.mp3",
     "desc": "سورة مكية، عدد آياتها 28. تتحدث عن دعوة نوح عليه السلام لقومه وكيف كذبوه فأهلكهم الله."
   },
   {
     "number": 46,
     "name_en": "Al-Ma'arij",
     "name_ar": "المعارج",
-    "filename": "audios/70.Al-Ma'arij.mp3",
+    "filename": "audio/70.Al-Ma'arij.mp3",
     "desc": "سورة مكية، عدد آياتها 44. تصف يوم القيامة وأهواله، وتتحدث عن صفات الإنسان وعن جزاء المكذبين."
   },
   {
     "number": 47,
     "name_en": "Al-Haqqah",
     "name_ar": "الحاقة",
-    "filename": "audios/69.Al-Haqqah.mp3",
+    "filename": "audio/69.Al-Haqqah.mp3",
     "desc": "سورة مكية، عدد آياتها 52. تتحدث عن يوم القيامة الذي لا ريب فيه، وعن مصير المكذبين من الأمم السابقة."
   },
   {
     "number": 48,
     "name_en": "Al-Qalam",
     "name_ar": "القلم",
-    "filename": "audios/68.Al-Qalam.mp3",
+    "filename": "audio/68.Al-Qalam.mp3",
     "desc": "سورة مكية، عدد آياتها 52. تُقسم بالقلم وما يسطرون، وتتحدث عن براءة النبي ﷺ مما نسبه إليه الكافرون، وقصة أصحاب الجنة."
   },
   {
     "number": 49,
     "name_en": "Al-Mulk",
     "name_ar": "الملك",
-    "filename": "audios/67.Al-Mulk.mp3",
+    "filename": "audio/67.Al-Mulk.mp3",
     "desc": "سورة مكية، عدد آياتها 30. تتحدث عن عظمة ملك الله وقدرته في الكون، وتوعد الكافرين بنار جهنم."
   },
   {
     "number": 50,
     "name_en": "At-Tahrim",
     "name_ar": "التحريم",
-    "filename": "audios/66.At-Tahrim.mp3",
+    "filename": "audio/66.At-Tahrim.mp3",
     "desc": "سورة مدنية، عدد آياتها 12. تتناول بعض القضايا الأسرية في بيت النبي ﷺ، وتدعو إلى التوبة النصوح."
   },
   {
     "number": 51,
     "name_en": "At-Talaq",
     "name_ar": "الطلاق",
-    "filename": "audios/65.At-Talaq.mp3",
+    "filename": "audio/65.At-Talaq.mp3",
     "desc": "سورة مدنية، عدد آياتها 12. تتناول أحكام الطلاق والعدة، وتحث على تقوى الله."
   },
   {
     "number": 52,
     "name_en": "At-Taghabun",
     "name_ar": "التغابن",
-    "filename": "audios/64.At-Taghabun.mp3",
+    "filename": "audio/64.At-Taghabun.mp3",
     "desc": "سورة مدنية، عدد آياتها 18. تتحدث عن يوم القيامة الذي يظهر فيه التغابن (الغبن) بين أهل الجنة وأهل النار، وتحث على الإيمان والإنفاق."
   },
   {
     "number": 53,
     "name_en": "Al-Munafiqun",
     "name_ar": "المنافقون",
-    "filename": "audios/63.Al-Munafiqun.mp3",
+    "filename": "audio/63.Al-Munafiqun.mp3",
     "desc": "سورة مدنية، عدد آياتها 11. تفضح صفات المنافقين وكذبهم وتكشف حالهم، وتحذر من فتنة المال والأولاد عن ذكر الله."
   }
 ]
