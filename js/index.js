@@ -32,6 +32,8 @@ async function getDetail(number) {
             <source src="${surahs[number].filename}" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
+        <br>
+        <a href="${surahs[number].filename}" download>اضغظ هنا لتنزيل الملف الصوتي</a>
     `;
 
 
