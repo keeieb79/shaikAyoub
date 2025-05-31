@@ -58,9 +58,7 @@
 
 /* starting body that about shaik and site service*/
 .allAboutShaikAndSite{
-
-    width: 70%;
-    /* height: 300px; */
+    width: 80%;
 
     margin-top: 75px;
     
@@ -82,3 +80,4 @@
     font-size: x-large;
     font-weight: 600;
 }
+
